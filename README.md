@@ -1,5 +1,6 @@
-<div style="width: 100%;">
-  <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"  width="1000" height="500">
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albonec)](https://github.com/anuraghazra/github-readme-stats)
