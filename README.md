@@ -4,7 +4,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albonec)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=albonec)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albonec)
 
 ![](https://komarev.com/ghpvc/?username=albonec&label=PROFILE+VIEWS)
 
